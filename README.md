@@ -61,15 +61,6 @@ It is designed as a portfolio‑ready analytics project that demonstrates workin
 
 ---
 
-## ✅ What You’ll Learn
-
-- Connecting Power BI to REST APIs and handling JSON responses. 
-- Building reusable Power Query transformations and parameterized queries.  
-- Designing a single‑page, glassmorphism‑style analytics dashboard with cards, gauges, and line charts. 
-- Presenting environmental insights (weather + AQI) in a clear, user‑friendly way for decision‑making. 
-
----
-
 ## 📸 Screenshots
 
 - Main Weather & AQI overview page with real‑time metrics and forecast chart. 
