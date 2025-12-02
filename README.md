@@ -64,4 +64,4 @@ It is designed as a portfolio‑ready analytics project that demonstrates workin
 ## 📸 Screenshots
 
 - Main Weather & AQI overview page with real‑time metrics and forecast chart.
-  https://github.com/AnshBansalbpl/Weather-Report-Project-1/blob/main/Weather%20Report%20Project%201%20SS.png
+- ![Weather Dashboard Screenshot](https://github.com/AnshBansalbpl/Weather-Report-Project-1/raw/main/Weather%20Report%20Project%201%20SS.png)
